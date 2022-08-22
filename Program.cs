@@ -100,5 +100,5 @@ namespace lesson10
     }
 }
 
-
+//checked
 
